@@ -25,3 +25,5 @@ function fareDoubler(a){
 function fareTripler(b){
  return  3*b;
 }
+
+function
