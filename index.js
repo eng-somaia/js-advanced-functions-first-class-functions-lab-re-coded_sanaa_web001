@@ -18,10 +18,10 @@ function createFareMultiplier(n){
   }
 }
 
-//const doubler =  
+ 
 function fareDoubler(a){
    return 2*a;
 }
 function fareTripler(b){
- return  
+ return  3*b;
 }
