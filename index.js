@@ -1,6 +1,6 @@
 let drivers = ['Tom', 'John', 'Pale', 'Susan']
 const returnFirstTwoDrivers = function (drivers){
-   (for const d of drivers)
-    return
+   for(let i=0; i<drivers.length; i++)
+
   }
 }
