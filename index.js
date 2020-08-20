@@ -22,3 +22,6 @@ function createFareMultiplier(n){
 function fareDoubler(a){
    return 2*a;
 }
+function fareTripler(b){
+ return  
+}
