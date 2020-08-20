@@ -17,3 +17,5 @@ function createFareMultiplier(n){
     return n*n;
   }
 }
+
+const doubler =  
