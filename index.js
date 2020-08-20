@@ -19,3 +19,4 @@ function createFareMultiplier(n){
 }
 
 const doubler =  
+fareDoubler()
