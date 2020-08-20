@@ -5,8 +5,7 @@ const returnFirstTwoDrivers = function (drivers){
 return x;
   }
   
-  returnLastTwoDrivers
-  const  = function (drivers){
-  let x= [drivers[0], drivers[1]]
+const returnLastTwoDrivers = function (drivers){
+  let x= [drivers[drivers.length-2], drivers[drivers.length-1]]
 return x;
   }
