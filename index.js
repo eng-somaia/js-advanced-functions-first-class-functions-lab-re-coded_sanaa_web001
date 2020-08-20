@@ -18,5 +18,7 @@ function createFareMultiplier(n){
   }
 }
 
-const doubler =  
-fareDoubler()
+//const doubler =  
+function fareDoubler(a){
+   return 2*a;
+}
